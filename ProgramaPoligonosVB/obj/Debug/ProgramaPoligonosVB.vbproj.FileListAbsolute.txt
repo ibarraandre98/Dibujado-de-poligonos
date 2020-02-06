@@ -1,0 +1,12 @@
+C:\Users\Muski\source\repos\ProgramaPoligonosVB\ProgramaPoligonosVB\bin\Debug\ProgramaPoligonosVB.exe.config
+C:\Users\Muski\source\repos\ProgramaPoligonosVB\ProgramaPoligonosVB\bin\Debug\ProgramaPoligonosVB.exe
+C:\Users\Muski\source\repos\ProgramaPoligonosVB\ProgramaPoligonosVB\bin\Debug\ProgramaPoligonosVB.pdb
+C:\Users\Muski\source\repos\ProgramaPoligonosVB\ProgramaPoligonosVB\bin\Debug\ProgramaPoligonosVB.xml
+C:\Users\Muski\source\repos\ProgramaPoligonosVB\ProgramaPoligonosVB\obj\Debug\ProgramaPoligonosVB.vbprojAssemblyReference.cache
+C:\Users\Muski\source\repos\ProgramaPoligonosVB\ProgramaPoligonosVB\obj\Debug\ProgramaPoligonosVB.Form1.resources
+C:\Users\Muski\source\repos\ProgramaPoligonosVB\ProgramaPoligonosVB\obj\Debug\ProgramaPoligonosVB.Resources.resources
+C:\Users\Muski\source\repos\ProgramaPoligonosVB\ProgramaPoligonosVB\obj\Debug\ProgramaPoligonosVB.vbproj.GenerateResource.cache
+C:\Users\Muski\source\repos\ProgramaPoligonosVB\ProgramaPoligonosVB\obj\Debug\ProgramaPoligonosVB.vbproj.CoreCompileInputs.cache
+C:\Users\Muski\source\repos\ProgramaPoligonosVB\ProgramaPoligonosVB\obj\Debug\ProgramaPoligonosVB.exe
+C:\Users\Muski\source\repos\ProgramaPoligonosVB\ProgramaPoligonosVB\obj\Debug\ProgramaPoligonosVB.xml
+C:\Users\Muski\source\repos\ProgramaPoligonosVB\ProgramaPoligonosVB\obj\Debug\ProgramaPoligonosVB.pdb
